@@ -1,6 +1,6 @@
-# Port Scanning Using Python
+# Generating Wordlist Using Python
 The Given Python Script is Use only for Generating Wordlist
-# Port-Scaner
+# Wordlist-Generator
 BY Royall-Researchers
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
